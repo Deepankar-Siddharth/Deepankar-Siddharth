@@ -209,21 +209,7 @@ End-to-end automation solutions that connect disparate systems and services, ena
 
 <img width="100%" max-width="800" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Deepankar's Github Stats" />
 
-<img width="100%" max-width="800" src="https://streak-stats.demolab.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" alt="Streak Stats" />
-
 <img width="100%" max-width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-### 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-  <img width="100%" max-width="800" alt="github contribution snake" src="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
