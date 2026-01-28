@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/Automation-Focused-success" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Deepankar-Siddharth&theme=radical&no-bg=true&column=7" />
-</p>
-
 ---
 
 ## ⚡ The Developer Behind the Dentist
@@ -30,17 +26,21 @@ I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his
 ## 🧰 Technical Arsenal
 
 ### 🚀 My Daily Stack
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman,mysql,nginx&perline=12" />
 </p>
 
 ### 🎯 Domain Expertise
+<div align="center">
+
 | Service | Specialized In | Status |
 | :--- | :--- | :--- |
 | **Automation** | Python (Selenium/Requests), Scrapy, Cron Logic | 🟢 Advanced |
 | **Cloud/VPS** | SSH Hardening, RDP Provisioning, Reverse Proxies | 🟢 Advanced |
 | **Analysis** | APK Decompilation, API Hooking, Static Analysis | 🟡 Intermediate |
 | **CI/CD** | Automated Testing & Deployment via GitHub Actions | 🟢 Advanced |
+
+</div>
 
 ---
 
@@ -59,15 +59,18 @@ I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his
 
 ---
 
-## 📊 Performance & Consistency
+## 📊 Performance Dashboard
 
 <p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" />
+  <img width="800" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Deepankar's Github Stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true" />
+  <img width="800" src="https://streak-stats.demolab.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ### 🐍 Contribution Journey
