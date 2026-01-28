@@ -11,59 +11,66 @@
   <img src="https://img.shields.io/badge/Automation-Focused-success" />
 </p>
 
----
-
-## 👋 About Me
-
-I am a **3rd-year BDS (Dental) student** with a deep-seated passion for **Backend Automation** and **Linux Systems**. I bridge the gap between healthcare precision and software logic, building tools that prioritize efficiency over aesthetics.
-
-* 🔭 **Current Focus:** Hardened VPS deployments and RDP orchestration.
-* 🧠 **Philosophy:** If it can be done manually twice, it should be scripted once.
-* ⚡ **Specialty:** APK reverse engineering and headless backend utilities.
-
----
-
-## 🛠️ Technical Arsenal
-
-### 💻 Core Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman&perline=10" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepankar-Siddharth&theme=radical&no-bg=true&column=7" />
 </p>
 
-### 🎯 Expertise
-| **Domain** | **Tools & Skills** |
-| :--- | :--- |
-| **Automation** | Python (Selenium/Requests), Bash Scripting, Cron Jobs |
-| **Cloud/VPS** | RDP Provisioning, SSH Hardening, Docker Containerization |
-| **Analysis** | APK Decompilation, Static Analysis, API Reverse Engineering |
-| **Workflow** | GitHub Actions, CI/CD Pipelines, Terminal-first UX |
+---
+
+## ⚡ The Developer Behind the Dentist
+
+I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his nights in the terminal. I specialize in building headless tools that solve real-world automation pain points, applying the same precision I use in clinical work to my code.
+
+- 🧪 **What I'm doing:** Orchestrating ephemeral VPS environments and APK analysis.
+- 🛠️ **My Philosophy:** If you have to do it twice, write a script.
+- 📚 **Currently Learning:** Advanced Docker Swarm and Golang for high-speed binaries.
+
+---
+
+## 🧰 Technical Arsenal
+
+### 🚀 My Daily Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman,mysql,nginx&perline=12" />
+</p>
+
+### 🎯 Domain Expertise
+| Service | Specialized In | Status |
+| :--- | :--- | :--- |
+| **Automation** | Python (Selenium/Requests), Scrapy, Cron Logic | 🟢 Advanced |
+| **Cloud/VPS** | SSH Hardening, RDP Provisioning, Reverse Proxies | 🟢 Advanced |
+| **Analysis** | APK Decompilation, API Hooking, Static Analysis | 🟡 Intermediate |
+| **CI/CD** | Automated Testing & Deployment via GitHub Actions | 🟢 Advanced |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP)
-> **A lightweight solution for on-demand Windows/Linux RDP environments.**
-* **Problem:** High overhead for short-term testing.
-* **Solution:** One-click deployment for temporary, isolated remote desktops.
-* **Tech:** Bash, VPS API Integration, RDP Protocols.
+### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP) 
+> **On-demand remote environments without the overhead.**
+* **Core:** Spawns isolated Windows/Linux instances for rapid testing.
+* **Tech:** Shell scripts + VPS API integration.
+* **Impact:** 60-second setup for clean, disposable environments.
 
 ### 📦 [Terminal Package Collection](https://github.com/Deepankar-Siddharth/terminal_package_collection)
-> **A "Swiss Army Knife" for server administrators.**
-* **Context:** Curated scripts and binaries for fresh Linux installs.
-* **Impact:** Reduces server setup time from 30 minutes to 30 seconds.
-* **Tech:** Shell, Linux Package Management.
+> **The ultimate server bootstrap toolkit.**
+* **Core:** A curated collection of scripts and essential binaries.
+* **Impact:** Zero-to-hero server provisioning in one command.
 
 ---
 
-## 📊 Analytics & Activity
+## 📊 Performance & Consistency
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true" />
+  <img width="480" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" />
 </p>
 
-### 🐍 Contribution Heatmap
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+### 🐍 Contribution Journey
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
@@ -74,7 +81,7 @@ I am a **3rd-year BDS (Dental) student** with a deep-seated passion for **Backen
 
 ---
 
-## 🌐 Get In Touch
+## 🌐 Connect & Collaborate
 
 <p align="center">
 <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -82,7 +89,7 @@ I am a **3rd-year BDS (Dental) student** with a deep-seated passion for **Backen
 </p>
 
 <p align="center">
-  <i>"Precision in the clinic. Logic in the terminal."</i>
+  <i>"Precision in the clinic. Automation in the terminal."</i>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
