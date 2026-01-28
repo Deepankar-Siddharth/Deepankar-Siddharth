@@ -46,16 +46,39 @@ I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his
 
 ## 🚀 Featured Projects
 
-### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP) 
+### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP)
 > **On-demand remote environments without the overhead.**
-* **Core:** Spawns isolated Windows/Linux instances for rapid testing.
-* **Tech:** Shell scripts + VPS API integration.
-* **Impact:** 60-second setup for clean, disposable environments.
+
+A production-grade automation system that provisions isolated Windows and Linux instances on-demand through VPS API integration. Built with shell scripting and infrastructure-as-code principles, it eliminates manual setup friction for testing and development workflows.
+
+* **Core Idea:** Ephemeral computing environments that spin up in seconds and tear down automatically.
+* **Technical Domain:** Infrastructure automation, API orchestration, system provisioning.
+* **Real-World Impact:** Reduces environment setup time from hours to under 60 seconds, enabling rapid iteration cycles.
 
 ### 📦 [Terminal Package Collection](https://github.com/Deepankar-Siddharth/terminal_package_collection)
 > **The ultimate server bootstrap toolkit.**
-* **Core:** A curated collection of scripts and essential binaries.
-* **Impact:** Zero-to-hero server provisioning in one command.
+
+A curated repository of battle-tested scripts, binaries, and configuration templates designed for zero-touch server deployment. Every component is selected for reliability and tested across multiple Linux distributions.
+
+* **Core Idea:** One-command server provisioning that transforms bare metal into a production-ready system.
+* **Technical Domain:** DevOps tooling, system administration, package management.
+* **Real-World Impact:** Eliminates repetitive setup tasks and standardizes server configurations across environments.
+
+---
+
+## 🧠 Private Engineering Work
+
+Beyond public repositories, I maintain several private projects focused on solving specific automation challenges and internal workflow optimization. These systems operate at the intersection of infrastructure management, data processing, and operational efficiency.
+
+**Automation Systems:** Custom orchestration pipelines that handle complex, multi-step workflows requiring precise timing and error recovery. These systems integrate with various APIs and services to automate tasks that would otherwise consume significant manual effort.
+
+**Internal Tooling:** Specialized utilities built for specific operational needs—ranging from data transformation workflows to infrastructure monitoring solutions. Each tool is designed with a single responsibility: eliminate a recurring pain point.
+
+**Analysis Platforms:** Private frameworks for processing and analyzing structured data at scale. These systems handle everything from data ingestion to transformation and reporting, built with performance and reliability as core requirements.
+
+**Workflow Automation:** End-to-end automation solutions that connect disparate systems and services, enabling seamless data flow and task execution without manual intervention. These projects prioritize reliability over features, ensuring consistent operation under varying conditions.
+
+While these projects remain private, they share a common philosophy: build tools that solve real problems, not theoretical ones. Each system is designed to be maintainable, reliable, and focused on delivering measurable impact.
 
 ---
 
@@ -87,8 +110,8 @@ I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his
 ## 🌐 Connect & Collaborate
 
 <p align="center">
-<a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/darkzino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:Deepankarab12@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
