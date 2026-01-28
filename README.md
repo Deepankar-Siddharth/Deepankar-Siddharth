@@ -219,7 +219,7 @@ End-to-end automation solutions that connect disparate systems and services, ena
 
 <div align="center">
 
-<a href="https://t.me/darkzino">
+<a href="https://t.me/Dev_clan_owner">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="mailto:Deepankarab12@email.com">
