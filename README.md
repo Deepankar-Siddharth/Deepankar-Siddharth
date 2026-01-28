@@ -15,30 +15,42 @@
 
 ## ⚡ The Developer Behind the Dentist
 
+<div align="center">
+
 I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his nights in the terminal. I specialize in building headless tools that solve real-world automation pain points, applying the same precision I use in clinical work to my code.
 
-- 🧪 **What I'm doing:** Orchestrating ephemeral VPS environments and APK analysis.
-- 🛠️ **My Philosophy:** If you have to do it twice, write a script.
-- 📚 **Currently Learning:** Advanced Docker Swarm and Golang for high-speed binaries.
+</div>
+
+<div align="center">
+
+| 🧪 **What I'm doing** | 🛠️ **My Philosophy** | 📚 **Currently Learning** |
+|:---:|:---:|:---:|
+| Orchestrating ephemeral VPS environments and APK analysis | If you have to do it twice, write a script | Advanced Docker Swarm and Golang for high-speed binaries |
+
+</div>
 
 ---
 
 ## 🧰 Technical Arsenal
 
 ### 🚀 My Daily Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman,mysql,nginx&perline=12" />
-</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman,mysql,nginx&perline=6" />
+</div>
+
+<br>
 
 ### 🎯 Domain Expertise
+
 <div align="center">
 
 | Service | Specialized In | Status |
-| :--- | :--- | :--- |
-| **Automation** | Python (Selenium/Requests), Scrapy, Cron Logic | 🟢 Advanced |
-| **Cloud/VPS** | SSH Hardening, RDP Provisioning, Reverse Proxies | 🟢 Advanced |
-| **Analysis** | APK Decompilation, API Hooking, Static Analysis | 🟡 Intermediate |
-| **CI/CD** | Automated Testing & Deployment via GitHub Actions | 🟢 Advanced |
+|:---:|:---:|:---:|
+| **🤖 Automation** | Python (Selenium/Requests), Scrapy, Cron Logic | 🟢 Advanced |
+| **☁️ Cloud/VPS** | SSH Hardening, RDP Provisioning, Reverse Proxies | 🟢 Advanced |
+| **🔍 Analysis** | APK Decompilation, API Hooking, Static Analysis | 🟡 Intermediate |
+| **⚙️ CI/CD** | Automated Testing & Deployment via GitHub Actions | 🟢 Advanced |
 
 </div>
 
@@ -46,76 +58,194 @@ I am **Deepankar Siddharth**, a 3rd-year **BDS (Dental) student** who spends his
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP)
+
 > **On-demand remote environments without the overhead.**
+
+</div>
+
+<div align="justify">
 
 A production-grade automation system that provisions isolated Windows and Linux instances on-demand through VPS API integration. Built with shell scripting and infrastructure-as-code principles, it eliminates manual setup friction for testing and development workflows.
 
-* **Core Idea:** Ephemeral computing environments that spin up in seconds and tear down automatically.
-* **Technical Domain:** Infrastructure automation, API orchestration, system provisioning.
-* **Real-World Impact:** Reduces environment setup time from hours to under 60 seconds, enabling rapid iteration cycles.
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Core Idea**  
+Ephemeral computing environments that spin up in seconds and tear down automatically.
+
+</td>
+<td width="50%" valign="top">
+
+**🔧 Technical Domain**  
+Infrastructure automation, API orchestration, system provisioning.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💡 Real-World Impact**  
+Reduces environment setup time from hours to under 60 seconds, enabling rapid iteration cycles.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Status**  
+🟢 Production Ready
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ### 📦 [Terminal Package Collection](https://github.com/Deepankar-Siddharth/terminal_package_collection)
+
 > **The ultimate server bootstrap toolkit.**
+
+</div>
+
+<div align="justify">
 
 A curated repository of battle-tested scripts, binaries, and configuration templates designed for zero-touch server deployment. Every component is selected for reliability and tested across multiple Linux distributions.
 
-* **Core Idea:** One-command server provisioning that transforms bare metal into a production-ready system.
-* **Technical Domain:** DevOps tooling, system administration, package management.
-* **Real-World Impact:** Eliminates repetitive setup tasks and standardizes server configurations across environments.
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Core Idea**  
+One-command server provisioning that transforms bare metal into a production-ready system.
+
+</td>
+<td width="50%" valign="top">
+
+**🔧 Technical Domain**  
+DevOps tooling, system administration, package management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💡 Real-World Impact**  
+Eliminates repetitive setup tasks and standardizes server configurations across environments.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Status**  
+🟢 Actively Maintained
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Private Engineering Work
 
+<div align="justify">
+
 Beyond public repositories, I maintain several private projects focused on solving specific automation challenges and internal workflow optimization. These systems operate at the intersection of infrastructure management, data processing, and operational efficiency.
 
-**Automation Systems:** Custom orchestration pipelines that handle complex, multi-step workflows requiring precise timing and error recovery. These systems integrate with various APIs and services to automate tasks that would otherwise consume significant manual effort.
+</div>
 
-**Internal Tooling:** Specialized utilities built for specific operational needs—ranging from data transformation workflows to infrastructure monitoring solutions. Each tool is designed with a single responsibility: eliminate a recurring pain point.
+<div align="center">
 
-**Analysis Platforms:** Private frameworks for processing and analyzing structured data at scale. These systems handle everything from data ingestion to transformation and reporting, built with performance and reliability as core requirements.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Workflow Automation:** End-to-end automation solutions that connect disparate systems and services, enabling seamless data flow and task execution without manual intervention. These projects prioritize reliability over features, ensuring consistent operation under varying conditions.
+**🤖 Automation Systems**  
+Custom orchestration pipelines that handle complex, multi-step workflows requiring precise timing and error recovery. These systems integrate with various APIs and services to automate tasks that would otherwise consume significant manual effort.
 
-While these projects remain private, they share a common philosophy: build tools that solve real problems, not theoretical ones. Each system is designed to be maintainable, reliable, and focused on delivering measurable impact.
+</td>
+<td width="50%" valign="top">
+
+**🛠️ Internal Tooling**  
+Specialized utilities built for specific operational needs—ranging from data transformation workflows to infrastructure monitoring solutions. Each tool is designed with a single responsibility: eliminate a recurring pain point.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📊 Analysis Platforms**  
+Private frameworks for processing and analyzing structured data at scale. These systems handle everything from data ingestion to transformation and reporting, built with performance and reliability as core requirements.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Workflow Automation**  
+End-to-end automation solutions that connect disparate systems and services, enabling seamless data flow and task execution without manual intervention. These projects prioritize reliability over features, ensuring consistent operation under varying conditions.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<em>While these projects remain private, they share a common philosophy: build tools that solve real problems, not theoretical ones. Each system is designed to be maintainable, reliable, and focused on delivering measurable impact.</em>
+
+</div>
 
 ---
 
 ## 📊 Performance Dashboard
 
-<p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Deepankar's Github Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="800" src="https://streak-stats.demolab.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+<img width="100%" max-width="800" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Deepankar's Github Stats" />
 
-<p align="center">
-  <img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<img width="100%" max-width="800" src="https://streak-stats.demolab.com/?user=Deepankar-Siddharth&theme=radical&hide_border=true" alt="Streak Stats" />
+
+<img width="100%" max-width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ### 🐍 Contribution Journey
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+  <img width="100%" max-width="800" alt="github contribution snake" src="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
 ## 🌐 Connect & Collaborate
 
-<p align="center">
-<a href="https://t.me/darkzino"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:Deepankarab12@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Precision in the clinic. Automation in the terminal."</i>
-</p>
+<a href="https://t.me/darkzino">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="mailto:Deepankarab12@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<div align="center">
+
+<em>"Precision in the clinic. Automation in the terminal."</em>
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
