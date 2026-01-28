@@ -1,119 +1,88 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Deepankar%20Siddharth&fontSize=44&fontAlignY=35)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Automation+Developer;Terminal+%26+VPS+Tooling;RDP+%7C+Linux+%7C+Backend+Scripts;Building+Tools+That+Actually+Get+Used" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Automation+Developer;Terminal+%26+VPS+Tooling;Clinical+Precision+%7C+Code+Logic;Building+Tools+That+Actually+Get+Used" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deepankar-Siddharth&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/badge/Linux-PowerUser-black?logo=linux" />
+  <img src="https://img.shields.io/badge/BDS-3rd%20Year-red" />
   <img src="https://img.shields.io/badge/Automation-Focused-success" />
 </p>
 
 ---
 
-## 👋 Who Am I?
+## 👋 About Me
 
-I’m **Deepankar Siddharth**, someone who enjoys building **practical automation tools** rather than flashy demos.
+I am a **3rd-year BDS (Dental) student** with a deep-seated passion for **Backend Automation** and **Linux Systems**. I bridge the gap between healthcare precision and software logic, building tools that prioritize efficiency over aesthetics.
 
-- 🎓 3rd Year **BDS Student**
-- 🖥️ Terminal-first developer
-- ⚙️ VPS, RDP & server workflow automation
-- 🔐 APK analysis & reverse engineering
-- 🤖 Telegram bots & backend utilities
-
-> I believe good tools should be **simple, fast, and reusable**.
+* 🔭 **Current Focus:** Hardened VPS deployments and RDP orchestration.
+* 🧠 **Philosophy:** If it can be done manually twice, it should be scripted once.
+* ⚡ **Specialty:** APK reverse engineering and headless backend utilities.
 
 ---
 
-## 🧰 Toolbox & Skills
+## 🛠️ Technical Arsenal
 
+### 💻 Core Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,git,docker,android&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,nodejs,docker,git,android,githubactions,postman&perline=10" />
 </p>
 
-**Also familiar with:**
-- VPS provisioning & hardening  
-- GitHub Actions & CI workflows  
-- Linux package management  
-- Headless automation  
+### 🎯 Expertise
+| **Domain** | **Tools & Skills** |
+| :--- | :--- |
+| **Automation** | Python (Selenium/Requests), Bash Scripting, Cron Jobs |
+| **Cloud/VPS** | RDP Provisioning, SSH Hardening, Docker Containerization |
+| **Analysis** | APK Decompilation, Static Analysis, API Reverse Engineering |
+| **Workflow** | GitHub Actions, CI/CD Pipelines, Terminal-first UX |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🖥️ Temp-RDP
-🔗 https://github.com/Deepankar-Siddharth/Temp-RDP  
+### 🖥️ [Temp-RDP](https://github.com/Deepankar-Siddharth/Temp-RDP)
+> **A lightweight solution for on-demand Windows/Linux RDP environments.**
+* **Problem:** High overhead for short-term testing.
+* **Solution:** One-click deployment for temporary, isolated remote desktops.
+* **Tech:** Bash, VPS API Integration, RDP Protocols.
 
-> A lightweight solution for creating **temporary RDP environments**.
-
-**Highlights**
-- ⚡ Fast setup
-- 🧪 Ideal for testing & short-term usage
-- 🔐 Minimal footprint
-- 🛠️ VPS-friendly design
-
----
-
-### 📦 Terminal Package Collection
-🔗 https://github.com/Deepankar-Siddharth/terminal_package_collection  
-
-> A curated collection of **useful terminal tools & packages**.
-
-**Highlights**
-- 🐧 Linux-first utilities
-- 🧠 Ready-to-use commands
-- 🚀 Speeds up server workflows
-- 📚 Acts as a personal terminal toolkit
+### 📦 [Terminal Package Collection](https://github.com/Deepankar-Siddharth/terminal_package_collection)
+> **A "Swiss Army Knife" for server administrators.**
+* **Context:** Curated scripts and binaries for fresh Linux installs.
+* **Impact:** Reduces server setup time from 30 minutes to 30 seconds.
+* **Tech:** Shell, Linux Package Management.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Analytics & Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=default" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true" />
-  </picture>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deepankar-Siddharth&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepankar-Siddharth&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+### 🐍 Contribution Heatmap
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deepankar-Siddharth&theme=radical" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Deepankar-Siddharth&theme=default" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepankar-Siddharth" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 Get In Touch
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake"
-      src="https://raw.githubusercontent.com/Deepankar-Siddharth/github-contribution-grid-snake/output/github-contribution-grid-snake.svg" />
-  </picture>
+<a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-## 🌐 Connect
-
-- 💬 Telegram: `@yourusername`
-- 📧 Email: `your@email.com`
-
 <p align="center">
-  <i>⚡ Build tools. Automate pain. Repeat.</i>
+  <i>"Precision in the clinic. Logic in the terminal."</i>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
